@@ -1,8 +1,15 @@
 Options +FollowSymLinks
 RewriteEngine on
 
-RewriteRule ^25$ http://www.google.be/image [R=302,NC,NE,L]
-RewriteRule ^35$ http://www.google.be/ima [R=302,NC,NE,L]
-RewriteRule ^45$ http://www.google.be/tese [R=302,NC,NE,L]
-RewriteRule ^55$ http://www.google.be/yolo [R=302,NC,NE,L]
-RewriteRule ^65$ http://www.google.be/swag [R=302,NC,NE,L]
+RewriteRule ^img/25$ http://www.google.be/image [R=302,NC,NE,L]
+RewriteRule ^img/35$ http://www.google.be/ima [R=302,NC,NE,L]
+RewriteRule ^img/45$ http://www.google.be/tese [R=302,NC,NE,L]
+RewriteRule ^img/55$ http://www.google.be/yolo [R=302,NC,NE,L]
+RewriteRule ^img/65$ http://www.google.be/swag [R=302,NC,NE,L]
+RewriteRule ^img/26$ http://www.google.be/image [R=302,NC,NE,L]
+RewriteRule ^img/36$ http://www.google.be/ima [R=302,NC,NE,L]
+RewriteRule ^img/46$ http://www.google.be/tese [R=302,NC,NE,L]
+RewriteRule ^img/56$ http://www.google.be/yolo [R=302,NC,NE,L]
+RewriteRule ^img/66$ http://www.google.be/swag [R=302,NC,NE,L]
+RewriteRule ^img/16$ http://www.google.be/swag [R=302,NC,NE,L]
+RewriteRule ^img/17$ http://www.google.be/swag [R=302,NC,NE,L]
